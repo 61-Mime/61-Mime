@@ -24,8 +24,9 @@ I am a Software Engineering student at Universidade do Minho currently in the th
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
-<img align="left" alt="Joao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=61-Mime&show_icons=true&hide_border=true&theme=onedark" />
+<img align="middle" alt="Joao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=61-Mime&show_icons=true&hide_border=true&theme=onedark" />
 
 
 [java]: https://www.java.com/en/
